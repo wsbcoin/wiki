@@ -1,2 +1,7 @@
 # wiki
-Important info, links, etc.
+
+## Telegram
+
+https://t.me/wsblockchain
+
+## Whitepaper
