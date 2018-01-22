@@ -1,7 +1,3 @@
 # wiki
 
-## Telegram
-
-https://t.me/wsblockchain
-
-## Whitepaper
+see https://github.com/wsbcoin/wiki/wiki
